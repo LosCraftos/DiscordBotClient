@@ -15,7 +15,7 @@
 		"node-fetch": "^2.6.7",
 		"request": "^2.88.2",
 		"socket.io": "^4.6.2",
-		"ws": "^8.12.1"
+		"ws": "^8.18.0"
 	},
 	"devDependencies": {
 		"electron": "^15.5.7",
